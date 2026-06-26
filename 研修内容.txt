@@ -112,7 +112,8 @@ SQL本
 　
 ---------------------------------------------------
 
-クリショー三和工場
+https://visit.teams.microsoft.com/webrtc-svc/api/route?tid=1afda869-1f95-44ee-9a1d-688120f4fc18&convId=19:meeting_N2YwZGY5YjEtYjU1ZS00NDI0LTkxYzctNTJhNDVlYjY1MDAw@thread.v2&oid=713786da-d0dc-48e5-b51d-3f39f4ab3dde&JoinWebUrl=https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2YwZGY5YjEtYjU1ZS00NDI0LTkxYzctNTJhNDVlYjY1MDAw%40thread.v2/0?context=%7b%22Tid%22%3a%221afda869-1f95-44ee-9a1d-688120f4fc18%22%2c%22Oid%22%3a%22713786da-d0dc-48e5-b51d-3f39f4ab3dde%22%7d&bid=Bookings3003108@outsourcinginc.onmicrosoft.com&biz=0&aE=False&ssid=asJWroM0FEGZeS0i7J8vxw2
+
 
 
 
